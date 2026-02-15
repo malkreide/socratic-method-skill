@@ -33,14 +33,14 @@ Dieser Skill aktiviert sich, wenn Nutzende:
 
 ### Für Claude.ai Projekte
 
-1. Laden Sie die Datei `SKILL.md` aus diesem Repository herunter
-2. Gehen Sie in Ihrem Claude.ai Projekt zu Projekteinstellungen → Skills
-3. Laden Sie die Datei `SKILL.md` hoch oder erstellen Sie einen neuen benutzerdefinierten Skill
+1. Lade die Datei `SKILL.md` aus diesem Repository herunter
+2. Gehe in deinem Claude.ai Projekt zu Projekteinstellungen → Skills
+3. Lade die Datei `SKILL.md` hoch oder erstelle einen neuen benutzerdefinierten Skill
 4. Der Skill wird automatisch basierend auf Nutzerinteraktionsmustern aktiviert
 
 ### Für Claude Desktop/API
 
-Fügen Sie den Skill-Inhalt in Ihre System-Prompts oder benutzerdefinierten Anweisungen ein.
+Füge den Skill-Inhalt in deine System-Prompts oder benutzerdefinierten Anweisungen ein.
 
 ## Nutzungsbeispiele
 
@@ -105,7 +105,7 @@ Der Skill beinhaltet wichtige Schutzmechanismen:
 
 ## Kontext
 
-Dieser Skill wurde beim **Schulamt der Stadt Zürich** entwickelt, um pädagogische Interaktionen und strategische Entscheidungsfindung im Kontext öffentlicher Verwaltung und Bildung zu unterstützen.
+Dieser Skill wurde von **Hayal** entwickelt, um pädagogische Interaktionen und strategische Entscheidungsfindung im Kontext öffentlicher Verwaltung und Bildung zu unterstützen.
 
 ## Mitwirken
 
@@ -123,7 +123,7 @@ MIT License - siehe [LICENSE](LICENSE) Datei für Details.
 
 ## Autor
 
-**Schulamt der Stadt Zürich**  
+**Hayal Oezkan**  
 Marketing und Kommunikation / KI-Fachgruppe Stadtverwaltung Zürich
 
 GitHub: [@malkreide](https://github.com/malkreide)
