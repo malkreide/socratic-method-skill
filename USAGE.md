@@ -1,20 +1,20 @@
 # Nutzungsanleitung: Sokratische Methode Skill
 
-Dieser Leitfaden bietet detaillierte Informationen zur effektiven Nutzung des Sokratische Methode Skills mit Claude.
+Dieser Leitfaden bietet dir detaillierte Informationen zur effektiven Nutzung des Sokratische Methode Skills mit Claude.
 
 ## Installationsmethoden
 
 ### Methode 1: Claude.ai Projekte (Empfohlen)
 
-1. Öffnen Sie Ihr Claude.ai Projekt
-2. Navigieren Sie zu **Projekteinstellungen** → **Skills**
-3. Klicken Sie auf **«Benutzerdefinierten Skill hinzufügen»**
-4. Laden Sie die Datei `SKILL.md` aus diesem Repository hoch
+1. Öffne dein Claude.ai Projekt
+2. Navigiere zu **Projekteinstellungen** → **Skills**
+3. Klicke auf **«Benutzerdefinierten Skill hinzufügen»**
+4. Lade die Datei `SKILL.md` aus diesem Repository hoch
 5. Der Skill wird automatisch basierend auf Nutzerinteraktionen aktiviert
 
 ### Methode 2: Claude Desktop / API
 
-Fügen Sie den Skill-Inhalt in Ihre System-Prompts oder benutzerdefinierten Anweisungen ein, wenn Sie Konversationen initialisieren.
+Füge den Skill-Inhalt in deine System-Prompts oder benutzerdefinierten Anweisungen ein, wenn du Konversationen initialisieren.
 
 ## Aktivierungs-Trigger
 
@@ -342,12 +342,12 @@ Der Skill beinhaltet Ton-Management. Falls das passiert, melde es als Bug.
 
 ## Hilfe erhalten
 
-Wenn Sie auf Probleme stossen:
-1. Prüfen Sie diesen Nutzungsleitfaden
-2. Überprüfen Sie die Beispieldialoge in SKILL.md
-3. Öffnen Sie ein Issue auf GitHub
-4. Treten Sie dem Diskussionsbereich bei
+Wenn du auf Probleme stösst:
+1. Prüfe diesen Nutzungsleitfaden
+2. Überprüfe die Beispieldialoge in SKILL.md
+3. Öffne ein Issue auf GitHub
+4. Trete dem Diskussionsbereich bei
 
 ---
 
-**Denken Sie daran:** Das Ziel ist nicht, Ihr Wissen zu demonstrieren, sondern Nutzende zu führen, ihr eigenes zu entdecken.
+**Denke daran:** Das Ziel ist nicht, dein Wissen zu demonstrieren, sondern Nutzende zu führen, ihr eigenes zu entdecken.
