@@ -139,3 +139,13 @@ Basierend auf der klassischen sokratischen Methode und moderner pädagogischer F
 ---
 
 *«Ich weiss, dass ich nichts weiss.»* — Sokrates
+
+---
+
+<div align="center">
+
+**Made with ❤️ in Zürich**
+
+[LinkedIn](https://www.linkedin.com/in/hayaloezkan/) • [Documentation](docs/) • [Contributing](CONTRIBUTING.md)
+
+</div>
